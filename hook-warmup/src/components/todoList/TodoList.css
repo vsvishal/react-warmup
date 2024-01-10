@@ -1,0 +1,25 @@
+.todo {
+  text-align: center;
+}
+
+input {
+  padding: 10px 12px;
+  width: 300px;
+}
+
+button {
+  padding: 11px 10px;
+  color: white;
+  background-color: orangered;
+}
+
+.todo__item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 12px;
+}
+
+.todo__item > li {
+  margin-right: 20px;
+}
